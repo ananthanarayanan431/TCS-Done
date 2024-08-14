@@ -18,3 +18,5 @@ for k,v in ans.items():
         maxy=v
         ch=k
 print(ch)
+
+#Maximum occurring character in a string
